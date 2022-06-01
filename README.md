@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ktyoussef
+- 👋 Hi, I’m Youssef El Rhoul El Alaoui but everyone calls me Youssef or Jojo :)
 - 👀 I’m interested in ... Full stack Javascript
 - 🌱 I’m currently learning ... the things related to full stack javascrip
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... any intresting projects big or small
 - 📫 How to reach me ... bramli@zoho.com and youssef.rhoul@gmail.com
 
 <!---
